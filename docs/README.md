@@ -1,4 +1,8 @@
-# How to contribute
+# Overview
+
+This project is a handbook of all the technical interviews covering the relevant questions.
+
+## Contribution guidelines
 
 We are really glad you're reading this, because we need volunteer developers to help this project come to fruition.
 
