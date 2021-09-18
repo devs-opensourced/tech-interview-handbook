@@ -1,0 +1,8 @@
+1st Technical Interview
+
+add 2 linkedlist 1->2->3 and 1->2 and result should be 1->3->5
+given an array find all pythagorous triplets
+how will you sort hash map
+usage of hashcode and equals
+how will you know your mq is full
+which communication is better mq or rest
